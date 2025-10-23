@@ -1,7 +1,8 @@
-# orealm
+# Orealm
 Empowering teachers and students with professional, accessible online education. 
 Project kick off recording on YouTube at https://youtu.be/pus4vUod6zU
 
+Full Stack project:
 Frontend: React.js, Tailwind CSS
 Backend: PHP Laravel
 Database: My SQL/ postgre SQL
